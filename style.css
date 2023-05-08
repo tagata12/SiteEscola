@@ -1,4 +1,16 @@
-header{
-    background-color: #383D58;
+.cabecalho{
+    background-color: #d45bac;
     color:white;
+    display: flex;
+    justify-content: space-around;
 }
+.logo{
+    width: 200px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+
+} 
